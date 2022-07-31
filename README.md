@@ -12,7 +12,7 @@
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ## Dynamic Programming
-- [House Robber](https://github.com/SimonCao1207/Leetcode-problems.git)
+- [House Robber](https://leetcode.com/problems/house-robber/submissions/)
 
 ## Other data structure and algorithm
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 
