@@ -1,5 +1,18 @@
 # Leetcode-problems
 
 ## BFS 
- - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/)
- 
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/)
+- [01 Matrix](https://leetcode.com/problems/01-matrix/)
+
+## DFS
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+- [Flood Fill](https://leetcode.com/problems/flood-fill/)
+
+## Sliding Window
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+## Other data structure and algorithm
+- [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+On updating...
