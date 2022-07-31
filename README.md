@@ -11,6 +11,9 @@
 ## Sliding Window
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
+## Dynamic Programming
+- [House Robber](https://github.com/SimonCao1207/Leetcode-problems.git)
+
 ## Other data structure and algorithm
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
