@@ -18,5 +18,6 @@
 ## Other data structure and algorithm
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Jump Game](https://leetcode.com/problems/jump-game/submissions/)
 
 On updating...
