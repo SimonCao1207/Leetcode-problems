@@ -16,7 +16,6 @@ public:
         int cur = nums.size()-2;
         int curGoodPos = nums.size()-1;
         while (cur>=0){
-            cout << "- " << cur << "\n";
             if (nums[cur] >= curGoodPos - cur)  curGoodPos = cur;
             cur--;
         }
