@@ -11,7 +11,7 @@
 ## Sliding Window
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
-## Two pointer
+## Two pointers
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ## Dynamic Programming
