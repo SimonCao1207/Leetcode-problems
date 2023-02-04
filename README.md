@@ -19,7 +19,10 @@
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/)
 - [Delete and Earns](https://leetcode.com/problems/delete-and-earn/)
 
-## Other data structure and algorithm
+## Data structure
+- [LRU Cache](https://leetcode.com/problems/lru-cache/description/) (solution using linked list)
+d
+## Combine DS and Algo
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Jump Game](https://leetcode.com/problems/jump-game/submissions/)
