@@ -26,5 +26,6 @@
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Jump Game](https://leetcode.com/problems/jump-game/submissions/)
+- [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
 On updating...
