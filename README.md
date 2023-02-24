@@ -27,5 +27,5 @@
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Jump Game](https://leetcode.com/problems/jump-game/submissions/)
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-
+- [Find the Dupliacte Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 On updating...
