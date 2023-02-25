@@ -29,5 +29,6 @@
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [Find the Dupliacte Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - [Single Number](https://leetcode.com/problems/single-number/description/)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
 On updating...
