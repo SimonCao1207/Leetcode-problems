@@ -22,6 +22,9 @@
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/)
 - [Delete and Earns](https://leetcode.com/problems/delete-and-earn/)
 
+## Search
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
 ## Data structure
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/) (solution using linked list)
 
