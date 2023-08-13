@@ -7,6 +7,7 @@
 ## DFS
 - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 - [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [Target Sum](https://leetcode.com/problems/target-sum/description/)
 
 ## Sliding Window
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
