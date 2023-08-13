@@ -7,7 +7,6 @@
 ## DFS
 - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 - [Flood Fill](https://leetcode.com/problems/flood-fill/)
-- [Target Sum](https://leetcode.com/problems/target-sum/description/)
 
 ## Sliding Window
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
@@ -25,6 +24,7 @@
 - [House Robber](https://leetcode.com/problems/house-robber/submissions/)
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/)
 - [Delete and Earns](https://leetcode.com/problems/delete-and-earn/)
+- [Target Sum](https://leetcode.com/problems/target-sum/description/)
 
 ## Search
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
