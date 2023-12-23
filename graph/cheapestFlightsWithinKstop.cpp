@@ -10,6 +10,8 @@ unsigned long long veryLargeNumber = 18446744073709551615ULL;
     https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/?envType=list&envId=53js48ke  
 */
 
+//Dijkstra algorithm
+
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
