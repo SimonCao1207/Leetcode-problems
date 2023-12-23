@@ -1,5 +1,8 @@
 # Leetcode-problems
 
+# Graph 
+- [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+
 ## BFS 
 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/)
 - [01 Matrix](https://leetcode.com/problems/01-matrix/)
