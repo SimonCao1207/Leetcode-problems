@@ -1,6 +1,6 @@
 # Leetcode-problems
 
-# Graph 
+## Graph 
 - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
 ## BFS 
