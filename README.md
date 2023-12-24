@@ -3,6 +3,7 @@
 ## Graph 
 - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 - [Cheapest Flights Within K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/?envType=list&envId=53js48ke)
+- [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/?envType=list&envId=53js48ke)
 
 ## BFS 
 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/submissions/)
