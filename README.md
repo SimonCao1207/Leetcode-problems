@@ -31,6 +31,7 @@
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/)
 - [Delete and Earns](https://leetcode.com/problems/delete-and-earn/)
 - [Target Sum](https://leetcode.com/problems/target-sum/description/)
+- [Coin Change](https://leetcode.com/problems/coin-change/submissions/)
 
 ## Search
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
