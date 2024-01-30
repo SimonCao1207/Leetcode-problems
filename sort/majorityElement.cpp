@@ -7,6 +7,10 @@
 #include <unordered_map>
 using namespace std;
 
+/*
+    https://leetcode.com/problems/majority-element/
+*/
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
