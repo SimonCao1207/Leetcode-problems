@@ -17,6 +17,7 @@
 ## Sliding Window
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 ## Two pointers
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
