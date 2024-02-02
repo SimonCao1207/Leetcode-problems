@@ -41,6 +41,7 @@
 ## Search
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 
 ## Sort
 - [Majority Element](https://leetcode.com/problems/majority-element/description/)

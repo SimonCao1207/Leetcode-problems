@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <climits>
- #include <numeric>
+#include <numeric>
 using namespace std;
 
 /*
