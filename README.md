@@ -52,6 +52,9 @@
 ## Bit manipulation
 - [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 
+## Greedy
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
+
 ## Combine DS and Algo
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
