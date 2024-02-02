@@ -48,6 +48,7 @@
 ## Data structure
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/) (solution using linked list)
 - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) (minHeap)
+- [K Closest Points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) (minHeap)
 
 ## Bit manipulation
 - [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
