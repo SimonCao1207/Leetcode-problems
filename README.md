@@ -72,5 +72,6 @@
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [Intervals List Intersection](https://leetcode.com/problems/interval-list-intersections/description/)
 - [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
+- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
 
 On updating...
