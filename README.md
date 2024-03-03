@@ -52,7 +52,7 @@
 - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) (minHeap)
 - [K Closest Points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) (minHeap)
 - [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/) (minHeap)
-- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (prefix product, suffix product)
 
 ## Bit manipulation
 - [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
