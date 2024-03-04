@@ -53,6 +53,8 @@
 - [K Closest Points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) (minHeap)
 - [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/) (minHeap)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (prefix product, suffix product)
+- [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) (array)
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)(trie)
 
 ## Bit manipulation
 - [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
@@ -65,7 +67,7 @@
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Jump Game](https://leetcode.com/problems/jump-game/submissions/)
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-- [Find the Dupliacte Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - [Single Number](https://leetcode.com/problems/single-number/description/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
